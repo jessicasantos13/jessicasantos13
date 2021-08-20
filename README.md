@@ -1,9 +1,8 @@
 ## Olá, eu sou a Jé! Bem vindes ao meu perfil! 
-
  <div>
   <a href="https://github.com/jessicasantos13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicasantos13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img style= "float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantos13&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jessicasantos13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantos13&layout=compact&langs_count=7&theme=dark" width:="125" height="130" style="float:right"/>
 </div> </a>
 <br>
 <div style="display: inline_block"><br>
