@@ -13,5 +13,4 @@
   </div>
     <A href = "mailto:jessica.amannda@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
     <A href = "www.linkedin.com/in/jessica-amanda-santos" alvo= "blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      ! [Animação de cobra](https://github.com/jessicasantos13/jessicasantos13/blob/output/github-contribution-grid-snake.svg)
-      </div>
+     
