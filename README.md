@@ -1,4 +1,4 @@
-<strong>Olá, eu sou a Jé! Bem vindes ao meu perfil!</strong>
+<strong>Olá, eu sou a Jé!</strong>
  <div>
   <a href="https://github.com/jessicasantos13">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=jessicasantos13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
