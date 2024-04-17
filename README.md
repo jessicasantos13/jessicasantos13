@@ -1,34 +1,12 @@
 ### Olá, eu sou a Jé!
 
-<style>
-    .container {
-        margin-bottom: 20px;
-    }
-
-    .avatar {
-        margin-right: 20px;
-        margin-bottom: 10px;
-        border-radius:100%;
-    }
-
-    .certificates {
-        padding-left: 15px;
-    }
-
-    @media (min-width: 450px) {
-        .container {
-            display: flex;
-        }
-    }
-</style>
-
-<div class="container">
-    <img class="avatar" src="Je-Gif.gif" alt="drawing" width="100" height="100" />
+<div style="display:flex;margin-bottom:15px;">
+    <img style="margin-right: 20px;   margin-bottom: 10px; border-radius:100%;" src="Je-Gif.gif" alt="drawing" width="100" height="100" />
     <div>
         <p>
             Sou Analista de Testes e Qualidade de Software com mais de 3 anos de experiência e uma paixão pela característica investigativa desta área. Possuo as seguintes certificações:
         </p>
-        <ul class="certificates">
+        <ul style="padding-left: 15px;">
             <li>Certified Tester Foundation Level (CTFL)</li>
             <li>Accredited Software Testing Fundamentals Certification (ASTFC)</li>
             <li>Scrum Foundation Professional Certificate (SFPC)</li>
