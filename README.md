@@ -4,7 +4,7 @@
     <img style="margin-right: 20px;   margin-bottom: 10px; border-radius:100%;" src="Je-Gif.gif" alt="drawing" width="100" height="100" />
     <div>
         <p>
-            Sou Analista de Testes e Qualidade de Software com mais de 3 anos de experiência e uma paixão pela característica investigativa desta área. Possuo as seguintes certificações:
+            Sou Engenheira de Qualidade de Software com mais de 3 anos de experiência e uma paixão pela característica investigativa desta área. Possuo as seguintes certificações:
         </p>
         <ul style="padding-left: 15px;">
             <li>Certified Tester Foundation Level (CTFL)</li>
