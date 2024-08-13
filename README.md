@@ -18,15 +18,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicasantos13&langs_count=8&theme=dark)
 
 ### Tecnologias e Ferramentas
-Linguagens de Programação: JavaScript, TypeScript
-Frameworks de Teste: Cypress
-Ferramentas de Testes de API: Postman
-Documentação e Teste de APIs: Swagger
-APIs: API RESTful
-Bancos de Dados: PostgreSQL (bancos de dados relacionais)
-Cloud Services: AWS (S3, CloudWatch, SQS)
-Gestão de Projetos: Jira, Trello
-Gerenciamento de Testes: Zephyr, Xray, Qase.io
+<li>Linguagens de Programação: JavaScript, TypeScript</li>
+<li>Frameworks de Teste: Cypress</li>
+<li>Ferramentas de Testes de API: Postman</li>
+<li>Documentação e Teste de APIs: Swagger</li>
+<li>APIs: API RESTful</li>
+<li>Bancos de Dados: PostgreSQL (bancos de dados relacionais)</li>
+<li>Cloud Services: AWS (S3, CloudWatch, SQS)</li>
+<li>Gestão de Projetos: Jira, Trello</li>
+<li>Gerenciamento de Testes: Zephyr, Xray, Qase.io</li>
  
 ### Vamos nos conectar?
 
